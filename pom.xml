@@ -259,14 +259,14 @@
     <distributionManagement>
         <repository>
             <id>deployment</id>
-            <name>Internal Snapshot Releases</name>
+            <name>Internal Releases</name>
             <url>http://192.168.33.70:8081/repository/Nexus_maven/</url>
         </repository>
-        <snapshot Repository>
+        <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
             <url>http://192.168.33.70:8081/repository/Nexus_snap/</url>
-            </snapshot Repository>
+         </snapshotRepository>
  </distributionManagement>
     
 </project>
