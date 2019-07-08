@@ -258,12 +258,12 @@
     
     <distributionManagement>
         <repository>
-            <id>nexus3</id>
+            <id>nexus_maven</id>
             <name>Nexus_maven</name>
             <url>http://192.168.33.70:8081/repository/Nexus_maven/</url>
         </repository>
         <snapshotRepository>
-            <id>nexus3</id>
+            <id>nexus_snap</id>
             <name>Nexus_snap</name>
             <url>http://192.168.33.70:8081/repository/Nexus_snap/</url>
          </snapshotRepository>
