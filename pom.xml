@@ -269,4 +269,8 @@
          </snapshotRepository>
  </distributionManagement>
     
+    <build>
+    <finalName>myJar</finalName>
+</build>
+    
 </project>
