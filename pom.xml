@@ -257,12 +257,6 @@
     </pluginRepository>
   </pluginRepositories>
     
-    <server>
-    <id>Nexus_maven</id>
-    <username>admin</username>
-    <password>admin123</password>
- </server>
-    
     <distributionManagement>
         <repository>
             <id>nexus_maven</id>
